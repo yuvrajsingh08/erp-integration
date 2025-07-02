@@ -201,7 +201,7 @@ This token is usually provided after installing GoFrugal POS WebReporter and reg
 ## 🔹 Sample Endpoints
 
 ### 📦 1. Fetch All Items
-```http
+
 GET /items
 Host: localhost:8382
 Headers:
